@@ -1,0 +1,26 @@
+:root {
+  --fg: #111;
+  --muted: #666;
+  --accent: #c00;
+  --bg: #fff;
+  --border: #e5e5e5;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  color: var(--fg);
+  background: #f7f7f7;
+}
+
+main {
+  max-width: 960px;
+  margin-inline: auto;
+  padding: 2rem 1rem;
+}
+
+h1 { margin-top: 0; }
+
+/* Añade aquí tus estilos para las tarjetas y el formulario */
