@@ -1,0 +1,11 @@
+{
+  "name": "prueba-b-news-feed",
+  "version": "1.0.0",
+  "description": "News Feed con consumo de API",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": ["javascript", "fetch", "api"],
+  "license": "MIT"
+}
